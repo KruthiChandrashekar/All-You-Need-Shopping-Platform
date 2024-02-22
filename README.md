@@ -1,6 +1,6 @@
 # Technologies used:
 
-Java , Spring Boot , React , VS code
+Java , Spring Boot , SQL, React , VS code
 
 Designed and implemented a full-stack e-commerce platform using Java, Spring Boot, and React.js. Integrated payment gateways and user authentication.
 
